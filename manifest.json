@@ -1,6 +1,6 @@
 {
-  "name": "test-off",
-  "short_name": "test-off",
+  "name": "test-pwa",
+  "short_name": "test-pwa",
   "theme_color": "#1976d2",
   "background_color": "#fafafa",
   "display": "standalone",
