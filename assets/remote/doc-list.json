@@ -1,20 +1,10 @@
 {
-    "total_count": 15,
+    "total_count": 5,
     "items": [
-        { "id": 1, "name": "Hydrogen" },
-        { "id": 2, "name": "Helium" },
-        { "id": 3, "name": "Lithium" },
-        { "id": 4, "name": "Beryllium" },
-        { "id": 5, "name": "Boron" },
-        { "id": 6, "name": "Carbon" },
-        { "id": 7, "name": "Nitrogen" },
-        { "id": 8, "name": "Oxygen" },
-        { "id": 9, "name": "Fluorine" },
-        { "id": 10, "name": "Neon" },
-        { "id": 11, "name": "Sodium" },
-        { "id": 12, "name": "Magnesium" },
-        { "id": 13, "name": "Aluminum" },
-        { "id": 14, "name": "Silicon" },
-        { "id": 15, "name": "Phosphoru" }
+        { "id": 1, "name": "Sample TXT", "format": "txt", "type": "plain/text" },
+        { "id": 2, "name": "Sample PNG", "format": "png", "type": "image/png" },
+        { "id": 3, "name": "Sample PDF", "format": "pdf", "type": "application/pdf" },
+        { "id": 4, "name": "Sample DOC", "format": "doc", "type": "application/doc" },
+        { "id": 5, "name": "Sample ZIP", "format": "zip", "type": "application/x-zip-compressed" }
     ]
 }
