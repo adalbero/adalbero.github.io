@@ -316,7 +316,10 @@ Apache-2.0
 @angular/core
 MIT
 
-@angular/animations
+@angular/common
+MIT
+
+@angular/platform-browser
 MIT
 
 @angular/cdk
@@ -344,41 +347,14 @@ OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
 THE SOFTWARE.
 
 
-@angular/common
+@angular/animations
 MIT
-
-@angular/platform-browser
-MIT
-
-@angular/material/tooltip
-
-@angular/material/toolbar
-
-@angular/material/progress-spinner
-
-@angular/forms
-MIT
-
-@angular/material/slide-toggle
-
-@angular/material/sort
 
 @angular/material/button
 
+@angular/material/toolbar
+
 @angular/material/icon
-
-@angular/material/table
-
-@angular/material/core
-
-@angular/material/form-field
-
-@angular/material/select
-
-@angular/material/paginator
-
-@angular/service-worker
-MIT
 
 zone.js
 MIT
